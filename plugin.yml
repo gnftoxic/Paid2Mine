@@ -1,0 +1,8 @@
+name: Paid2Mine
+version: 0.2.0
+description: Allows players to get paid for mining.
+main: me.pwnage.bukkit.paid2mine.Paid2Mine
+commands:
+  minepay:
+    description: General command for Paid2Mine
+    usage: /<command> -version|-reload
